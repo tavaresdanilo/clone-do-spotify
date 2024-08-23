@@ -1,1 +1,1 @@
-![Clone do Spotify]('/src/assets/Clone-do-Spotify.png')
+![Clone do Spotify](/src/assets/Clone-do-Spotify.png)
